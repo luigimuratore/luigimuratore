@@ -19,11 +19,18 @@
 
 ###
 
-<p align="left">Mechatronics engineering student with a deep passion for robotics and technologies that drive progress and improve everyday life.<br><br>
+<div align="center">
+  
+  ### Mechatronics engineering student with a deep passion for robotics and technologies that drive progress and improve everyday life.
+  
+</div>
+
+<p align="left"> 
+  
   - 🔭 I’m working as ...<br>
   - 📚 I'm currently learning ...<br>
   
-  - ⚡  ~Done is better than perfect~
+  # ⚡ Done is better than perfect ~
 
 </p>
 
