@@ -41,4 +41,7 @@
 </div>
 
 -----------------------------------
-###
+### YouTube video
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
