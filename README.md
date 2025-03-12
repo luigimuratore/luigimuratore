@@ -44,4 +44,8 @@
 ### YouTube video
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Ctrl+Alt+Rover - Reinforcement Learning and Sim-to-Real transfer for autonomous parking](https://ytcards.demolab.com/?id=acG5F-Vcsfw&title=Ctrl%2BAlt%2BRover+-+Reinforcement+Learning+and+Sim-to-Real+transfer+for+autonomous+parking&lang=en&timestamp=1739209245&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ctrl+Alt+Rover - Reinforcement Learning and Sim-to-Real transfer for autonomous parking")](https://www.youtube.com/watch?v=acG5F-Vcsfw)
+[![Automatic conveyor system - FluidSIM and CODESYS](https://ytcards.demolab.com/?id=qGTXJ2boi3s&title=Automatic+conveyor+system+-+FluidSIM+and+CODESYS&lang=en&timestamp=1731497768&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Automatic conveyor system - FluidSIM and CODESYS")](https://www.youtube.com/watch?v=qGTXJ2boi3s)
+[![Automation Studio - Conveyors](https://ytcards.demolab.com/?id=tgNLueUJgig&title=Automation+Studio+-+Conveyors&lang=en&timestamp=1729373875&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Automation Studio - Conveyors")](https://www.youtube.com/watch?v=tgNLueUJgig)
+[![I'm not a Robotitc Arm](https://ytcards.demolab.com/?id=NtzdcXTT0lE&title=I%27m+not+a+Robotitc+Arm&lang=en&timestamp=1728373453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I'm not a Robotitc Arm")](https://www.youtube.com/watch?v=NtzdcXTT0lE)
 <!-- END YOUTUBE-CARDS -->
